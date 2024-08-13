@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+}
+.search-bar {
+  margin-bottom: 20px;
+}
+.movie-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  text-align: left;
+}
+.movie-card img {
+  max-width: 100px;
+}
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
